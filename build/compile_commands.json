@@ -1,0 +1,182 @@
+[
+{
+  "directory": "/home/lain/Dev/projects/penentuan-gelombang-pecah/build",
+  "command": "/usr/bin/c++ -DOPENXLSX_STATIC_DEFINE -I/home/lain/Dev/projects/penentuan-gelombang-pecah/include -I/home/lain/Dev/projects/penentuan-gelombang-pecah/third_party/InterpKit/src -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/generated -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/headers -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-build/OpenXLSX -std=gnu++23 -o CMakeFiles/gelombang_pecah.dir/src/main.cpp.o -c /home/lain/Dev/projects/penentuan-gelombang-pecah/src/main.cpp",
+  "file": "/home/lain/Dev/projects/penentuan-gelombang-pecah/src/main.cpp",
+  "output": "CMakeFiles/gelombang_pecah.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/lain/Dev/projects/penentuan-gelombang-pecah/build",
+  "command": "/usr/bin/c++ -DOPENXLSX_STATIC_DEFINE -I/home/lain/Dev/projects/penentuan-gelombang-pecah/include -I/home/lain/Dev/projects/penentuan-gelombang-pecah/third_party/InterpKit/src -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/generated -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/headers -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-build/OpenXLSX -std=gnu++23 -o CMakeFiles/gelombang_pecah.dir/src/wave_calc.cpp.o -c /home/lain/Dev/projects/penentuan-gelombang-pecah/src/wave_calc.cpp",
+  "file": "/home/lain/Dev/projects/penentuan-gelombang-pecah/src/wave_calc.cpp",
+  "output": "CMakeFiles/gelombang_pecah.dir/src/wave_calc.cpp.o"
+},
+{
+  "directory": "/home/lain/Dev/projects/penentuan-gelombang-pecah/build",
+  "command": "/usr/bin/c++ -DOPENXLSX_STATIC_DEFINE -I/home/lain/Dev/projects/penentuan-gelombang-pecah/include -I/home/lain/Dev/projects/penentuan-gelombang-pecah/third_party/InterpKit/src -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/generated -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/headers -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-build/OpenXLSX -std=gnu++23 -o CMakeFiles/gelombang_pecah.dir/third_party/InterpKit/src/logic.cpp.o -c /home/lain/Dev/projects/penentuan-gelombang-pecah/third_party/InterpKit/src/logic.cpp",
+  "file": "/home/lain/Dev/projects/penentuan-gelombang-pecah/third_party/InterpKit/src/logic.cpp",
+  "output": "CMakeFiles/gelombang_pecah.dir/third_party/InterpKit/src/logic.cpp.o"
+},
+{
+  "directory": "/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-build/OpenXLSX",
+  "command": "/usr/bin/c++ -DCHARCONV_ENABLED -DOPENXLSX_STATIC_DEFINE -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/headers -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-build/OpenXLSX -isystem /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/external/zippy -isystem /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/external/pugixml -std=c++17 -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -o CMakeFiles/OpenXLSX.dir/sources/XLCell.cpp.o -c /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/sources/XLCell.cpp",
+  "file": "/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/sources/XLCell.cpp",
+  "output": "_deps/openxlsx-build/OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLCell.cpp.o"
+},
+{
+  "directory": "/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-build/OpenXLSX",
+  "command": "/usr/bin/c++ -DCHARCONV_ENABLED -DOPENXLSX_STATIC_DEFINE -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/headers -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-build/OpenXLSX -isystem /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/external/zippy -isystem /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/external/pugixml -std=c++17 -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -o CMakeFiles/OpenXLSX.dir/sources/XLCellIterator.cpp.o -c /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/sources/XLCellIterator.cpp",
+  "file": "/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/sources/XLCellIterator.cpp",
+  "output": "_deps/openxlsx-build/OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLCellIterator.cpp.o"
+},
+{
+  "directory": "/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-build/OpenXLSX",
+  "command": "/usr/bin/c++ -DCHARCONV_ENABLED -DOPENXLSX_STATIC_DEFINE -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/headers -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-build/OpenXLSX -isystem /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/external/zippy -isystem /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/external/pugixml -std=c++17 -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -o CMakeFiles/OpenXLSX.dir/sources/XLCellRange.cpp.o -c /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/sources/XLCellRange.cpp",
+  "file": "/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/sources/XLCellRange.cpp",
+  "output": "_deps/openxlsx-build/OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLCellRange.cpp.o"
+},
+{
+  "directory": "/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-build/OpenXLSX",
+  "command": "/usr/bin/c++ -DCHARCONV_ENABLED -DOPENXLSX_STATIC_DEFINE -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/headers -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-build/OpenXLSX -isystem /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/external/zippy -isystem /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/external/pugixml -std=c++17 -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -o CMakeFiles/OpenXLSX.dir/sources/XLCellReference.cpp.o -c /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/sources/XLCellReference.cpp",
+  "file": "/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/sources/XLCellReference.cpp",
+  "output": "_deps/openxlsx-build/OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLCellReference.cpp.o"
+},
+{
+  "directory": "/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-build/OpenXLSX",
+  "command": "/usr/bin/c++ -DCHARCONV_ENABLED -DOPENXLSX_STATIC_DEFINE -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/headers -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-build/OpenXLSX -isystem /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/external/zippy -isystem /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/external/pugixml -std=c++17 -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -o CMakeFiles/OpenXLSX.dir/sources/XLCellValue.cpp.o -c /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/sources/XLCellValue.cpp",
+  "file": "/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/sources/XLCellValue.cpp",
+  "output": "_deps/openxlsx-build/OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLCellValue.cpp.o"
+},
+{
+  "directory": "/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-build/OpenXLSX",
+  "command": "/usr/bin/c++ -DCHARCONV_ENABLED -DOPENXLSX_STATIC_DEFINE -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/headers -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-build/OpenXLSX -isystem /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/external/zippy -isystem /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/external/pugixml -std=c++17 -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -o CMakeFiles/OpenXLSX.dir/sources/XLColor.cpp.o -c /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/sources/XLColor.cpp",
+  "file": "/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/sources/XLColor.cpp",
+  "output": "_deps/openxlsx-build/OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLColor.cpp.o"
+},
+{
+  "directory": "/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-build/OpenXLSX",
+  "command": "/usr/bin/c++ -DCHARCONV_ENABLED -DOPENXLSX_STATIC_DEFINE -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/headers -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-build/OpenXLSX -isystem /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/external/zippy -isystem /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/external/pugixml -std=c++17 -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -o CMakeFiles/OpenXLSX.dir/sources/XLColumn.cpp.o -c /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/sources/XLColumn.cpp",
+  "file": "/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/sources/XLColumn.cpp",
+  "output": "_deps/openxlsx-build/OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLColumn.cpp.o"
+},
+{
+  "directory": "/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-build/OpenXLSX",
+  "command": "/usr/bin/c++ -DCHARCONV_ENABLED -DOPENXLSX_STATIC_DEFINE -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/headers -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-build/OpenXLSX -isystem /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/external/zippy -isystem /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/external/pugixml -std=c++17 -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -o CMakeFiles/OpenXLSX.dir/sources/XLComments.cpp.o -c /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/sources/XLComments.cpp",
+  "file": "/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/sources/XLComments.cpp",
+  "output": "_deps/openxlsx-build/OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLComments.cpp.o"
+},
+{
+  "directory": "/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-build/OpenXLSX",
+  "command": "/usr/bin/c++ -DCHARCONV_ENABLED -DOPENXLSX_STATIC_DEFINE -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/headers -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-build/OpenXLSX -isystem /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/external/zippy -isystem /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/external/pugixml -std=c++17 -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -o CMakeFiles/OpenXLSX.dir/sources/XLContentTypes.cpp.o -c /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/sources/XLContentTypes.cpp",
+  "file": "/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/sources/XLContentTypes.cpp",
+  "output": "_deps/openxlsx-build/OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLContentTypes.cpp.o"
+},
+{
+  "directory": "/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-build/OpenXLSX",
+  "command": "/usr/bin/c++ -DCHARCONV_ENABLED -DOPENXLSX_STATIC_DEFINE -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/headers -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-build/OpenXLSX -isystem /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/external/zippy -isystem /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/external/pugixml -std=c++17 -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -o CMakeFiles/OpenXLSX.dir/sources/XLDateTime.cpp.o -c /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/sources/XLDateTime.cpp",
+  "file": "/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/sources/XLDateTime.cpp",
+  "output": "_deps/openxlsx-build/OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLDateTime.cpp.o"
+},
+{
+  "directory": "/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-build/OpenXLSX",
+  "command": "/usr/bin/c++ -DCHARCONV_ENABLED -DOPENXLSX_STATIC_DEFINE -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/headers -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-build/OpenXLSX -isystem /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/external/zippy -isystem /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/external/pugixml -std=c++17 -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -o CMakeFiles/OpenXLSX.dir/sources/XLDocument.cpp.o -c /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/sources/XLDocument.cpp",
+  "file": "/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/sources/XLDocument.cpp",
+  "output": "_deps/openxlsx-build/OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLDocument.cpp.o"
+},
+{
+  "directory": "/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-build/OpenXLSX",
+  "command": "/usr/bin/c++ -DCHARCONV_ENABLED -DOPENXLSX_STATIC_DEFINE -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/headers -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-build/OpenXLSX -isystem /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/external/zippy -isystem /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/external/pugixml -std=c++17 -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -o CMakeFiles/OpenXLSX.dir/sources/XLDrawing.cpp.o -c /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/sources/XLDrawing.cpp",
+  "file": "/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/sources/XLDrawing.cpp",
+  "output": "_deps/openxlsx-build/OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLDrawing.cpp.o"
+},
+{
+  "directory": "/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-build/OpenXLSX",
+  "command": "/usr/bin/c++ -DCHARCONV_ENABLED -DOPENXLSX_STATIC_DEFINE -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/headers -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-build/OpenXLSX -isystem /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/external/zippy -isystem /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/external/pugixml -std=c++17 -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -o CMakeFiles/OpenXLSX.dir/sources/XLFormula.cpp.o -c /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/sources/XLFormula.cpp",
+  "file": "/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/sources/XLFormula.cpp",
+  "output": "_deps/openxlsx-build/OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLFormula.cpp.o"
+},
+{
+  "directory": "/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-build/OpenXLSX",
+  "command": "/usr/bin/c++ -DCHARCONV_ENABLED -DOPENXLSX_STATIC_DEFINE -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/headers -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-build/OpenXLSX -isystem /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/external/zippy -isystem /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/external/pugixml -std=c++17 -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -o CMakeFiles/OpenXLSX.dir/sources/XLMergeCells.cpp.o -c /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/sources/XLMergeCells.cpp",
+  "file": "/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/sources/XLMergeCells.cpp",
+  "output": "_deps/openxlsx-build/OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLMergeCells.cpp.o"
+},
+{
+  "directory": "/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-build/OpenXLSX",
+  "command": "/usr/bin/c++ -DCHARCONV_ENABLED -DOPENXLSX_STATIC_DEFINE -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/headers -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-build/OpenXLSX -isystem /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/external/zippy -isystem /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/external/pugixml -std=c++17 -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -o CMakeFiles/OpenXLSX.dir/sources/XLProperties.cpp.o -c /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/sources/XLProperties.cpp",
+  "file": "/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/sources/XLProperties.cpp",
+  "output": "_deps/openxlsx-build/OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLProperties.cpp.o"
+},
+{
+  "directory": "/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-build/OpenXLSX",
+  "command": "/usr/bin/c++ -DCHARCONV_ENABLED -DOPENXLSX_STATIC_DEFINE -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/headers -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-build/OpenXLSX -isystem /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/external/zippy -isystem /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/external/pugixml -std=c++17 -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -o CMakeFiles/OpenXLSX.dir/sources/XLRelationships.cpp.o -c /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/sources/XLRelationships.cpp",
+  "file": "/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/sources/XLRelationships.cpp",
+  "output": "_deps/openxlsx-build/OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLRelationships.cpp.o"
+},
+{
+  "directory": "/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-build/OpenXLSX",
+  "command": "/usr/bin/c++ -DCHARCONV_ENABLED -DOPENXLSX_STATIC_DEFINE -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/headers -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-build/OpenXLSX -isystem /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/external/zippy -isystem /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/external/pugixml -std=c++17 -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -o CMakeFiles/OpenXLSX.dir/sources/XLRow.cpp.o -c /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/sources/XLRow.cpp",
+  "file": "/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/sources/XLRow.cpp",
+  "output": "_deps/openxlsx-build/OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLRow.cpp.o"
+},
+{
+  "directory": "/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-build/OpenXLSX",
+  "command": "/usr/bin/c++ -DCHARCONV_ENABLED -DOPENXLSX_STATIC_DEFINE -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/headers -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-build/OpenXLSX -isystem /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/external/zippy -isystem /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/external/pugixml -std=c++17 -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -o CMakeFiles/OpenXLSX.dir/sources/XLRowData.cpp.o -c /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/sources/XLRowData.cpp",
+  "file": "/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/sources/XLRowData.cpp",
+  "output": "_deps/openxlsx-build/OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLRowData.cpp.o"
+},
+{
+  "directory": "/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-build/OpenXLSX",
+  "command": "/usr/bin/c++ -DCHARCONV_ENABLED -DOPENXLSX_STATIC_DEFINE -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/headers -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-build/OpenXLSX -isystem /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/external/zippy -isystem /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/external/pugixml -std=c++17 -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -o CMakeFiles/OpenXLSX.dir/sources/XLSharedStrings.cpp.o -c /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/sources/XLSharedStrings.cpp",
+  "file": "/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/sources/XLSharedStrings.cpp",
+  "output": "_deps/openxlsx-build/OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLSharedStrings.cpp.o"
+},
+{
+  "directory": "/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-build/OpenXLSX",
+  "command": "/usr/bin/c++ -DCHARCONV_ENABLED -DOPENXLSX_STATIC_DEFINE -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/headers -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-build/OpenXLSX -isystem /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/external/zippy -isystem /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/external/pugixml -std=c++17 -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -o CMakeFiles/OpenXLSX.dir/sources/XLSheet.cpp.o -c /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/sources/XLSheet.cpp",
+  "file": "/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/sources/XLSheet.cpp",
+  "output": "_deps/openxlsx-build/OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLSheet.cpp.o"
+},
+{
+  "directory": "/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-build/OpenXLSX",
+  "command": "/usr/bin/c++ -DCHARCONV_ENABLED -DOPENXLSX_STATIC_DEFINE -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/headers -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-build/OpenXLSX -isystem /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/external/zippy -isystem /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/external/pugixml -std=c++17 -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -o CMakeFiles/OpenXLSX.dir/sources/XLStyles.cpp.o -c /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/sources/XLStyles.cpp",
+  "file": "/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/sources/XLStyles.cpp",
+  "output": "_deps/openxlsx-build/OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLStyles.cpp.o"
+},
+{
+  "directory": "/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-build/OpenXLSX",
+  "command": "/usr/bin/c++ -DCHARCONV_ENABLED -DOPENXLSX_STATIC_DEFINE -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/headers -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-build/OpenXLSX -isystem /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/external/zippy -isystem /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/external/pugixml -std=c++17 -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -o CMakeFiles/OpenXLSX.dir/sources/XLTables.cpp.o -c /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/sources/XLTables.cpp",
+  "file": "/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/sources/XLTables.cpp",
+  "output": "_deps/openxlsx-build/OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLTables.cpp.o"
+},
+{
+  "directory": "/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-build/OpenXLSX",
+  "command": "/usr/bin/c++ -DCHARCONV_ENABLED -DOPENXLSX_STATIC_DEFINE -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/headers -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-build/OpenXLSX -isystem /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/external/zippy -isystem /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/external/pugixml -std=c++17 -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -o CMakeFiles/OpenXLSX.dir/sources/XLWorkbook.cpp.o -c /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/sources/XLWorkbook.cpp",
+  "file": "/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/sources/XLWorkbook.cpp",
+  "output": "_deps/openxlsx-build/OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLWorkbook.cpp.o"
+},
+{
+  "directory": "/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-build/OpenXLSX",
+  "command": "/usr/bin/c++ -DCHARCONV_ENABLED -DOPENXLSX_STATIC_DEFINE -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/headers -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-build/OpenXLSX -isystem /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/external/zippy -isystem /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/external/pugixml -std=c++17 -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -o CMakeFiles/OpenXLSX.dir/sources/XLXmlData.cpp.o -c /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/sources/XLXmlData.cpp",
+  "file": "/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/sources/XLXmlData.cpp",
+  "output": "_deps/openxlsx-build/OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLXmlData.cpp.o"
+},
+{
+  "directory": "/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-build/OpenXLSX",
+  "command": "/usr/bin/c++ -DCHARCONV_ENABLED -DOPENXLSX_STATIC_DEFINE -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/headers -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-build/OpenXLSX -isystem /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/external/zippy -isystem /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/external/pugixml -std=c++17 -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -o CMakeFiles/OpenXLSX.dir/sources/XLXmlFile.cpp.o -c /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/sources/XLXmlFile.cpp",
+  "file": "/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/sources/XLXmlFile.cpp",
+  "output": "_deps/openxlsx-build/OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLXmlFile.cpp.o"
+},
+{
+  "directory": "/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-build/OpenXLSX",
+  "command": "/usr/bin/c++ -DCHARCONV_ENABLED -DOPENXLSX_STATIC_DEFINE -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/headers -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-build/OpenXLSX -isystem /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/external/zippy -isystem /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/external/pugixml -std=c++17 -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -o CMakeFiles/OpenXLSX.dir/sources/XLXmlParser.cpp.o -c /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/sources/XLXmlParser.cpp",
+  "file": "/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/sources/XLXmlParser.cpp",
+  "output": "_deps/openxlsx-build/OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLXmlParser.cpp.o"
+},
+{
+  "directory": "/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-build/OpenXLSX",
+  "command": "/usr/bin/c++ -DCHARCONV_ENABLED -DOPENXLSX_STATIC_DEFINE -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/headers -I/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-build/OpenXLSX -isystem /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/external/zippy -isystem /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/external/pugixml -std=c++17 -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -o CMakeFiles/OpenXLSX.dir/sources/XLZipArchive.cpp.o -c /home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/sources/XLZipArchive.cpp",
+  "file": "/home/lain/Dev/projects/penentuan-gelombang-pecah/build/_deps/openxlsx-src/OpenXLSX/sources/XLZipArchive.cpp",
+  "output": "_deps/openxlsx-build/OpenXLSX/CMakeFiles/OpenXLSX.dir/sources/XLZipArchive.cpp.o"
+}
+]
