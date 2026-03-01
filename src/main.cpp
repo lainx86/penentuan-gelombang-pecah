@@ -123,6 +123,35 @@ int main() {
                 if (interpGrafik.success) {
                     std::println("\n{}Hasil Interpolasi Grafik 7.17:{}", "\033[1;33m", "\033[0m");  // Kuning
                     std::println("Nilai Y (hasil grafik) = {}", interpGrafik.value);
+                    
+                    // --- Interpolasi Hb/H'_0 ---
+                    std::println("\n--- Interpolasi Hb/H'_0 ---");
+                    std::println("Silakan masukkan parameter untuk interpolasi Hb/H'_0:");
+                    double x_target_hb, x1_hb, x2_hb, y1_hb, y2_hb;
+                    std::cout << "Masukkan nilai target X (contoh: 1.1)              : ";
+                    std::cin >> x_target_hb;
+                    std::cout << "Masukkan batas bawah X (x1) (contoh: 0)            : ";
+                    std::cin >> x1_hb;
+                    std::cout << "Masukkan batas atas X (x2) (contoh: 2.8)           : ";
+                    std::cin >> x2_hb;
+                    std::cout << "Masukkan batas bawah Y atau Hb/H'_0 (y1) (contoh: 1)  : ";
+                    std::cin >> y1_hb;
+                    std::cout << "Masukkan batas atas Y atau Hb/H'_0 (y2)  (contoh: 1.5): ";
+                    std::cin >> y2_hb;
+                    
+                    auto interpHb = logic::hitungInterpolasi(x1_hb, x2_hb, y1_hb, y2_hb, x_target_hb);
+                    
+                    if (interpHb.success) {
+                        std::println("\n{}Hasil Interpolasi Hb/H'_0:{}", "\033[1;36m", "\033[0m");  // Cyan
+                        std::println("Nilai Hb/H'_0 = {}", interpHb.value);
+                        
+                        // Menghitung Tinggi Gelombang Pecah (Hb)
+                        double Hb = interpHb.value * H_aksen_0;
+                        std::println("Maka, Tinggi Gelombang Pecah (Hb) = {} m", Hb);
+                    } else {
+                        std::println("Error Interpolasi Hb/H'_0: {}", interpHb.error);
+                    }
+                    
                 } else {
                     std::println("Error Interpolasi Grafik 7.17: {}", interpGrafik.error);
                 }
