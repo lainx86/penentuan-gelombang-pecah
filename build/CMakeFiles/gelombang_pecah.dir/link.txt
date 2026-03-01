@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/gelombang_pecah.dir/link.d CMakeFiles/gelombang_pecah.dir/src/main.cpp.o CMakeFiles/gelombang_pecah.dir/src/wave_calc.cpp.o CMakeFiles/gelombang_pecah.dir/third_party/InterpKit/src/logic.cpp.o -o gelombang_pecah  output/libOpenXLSX.a
